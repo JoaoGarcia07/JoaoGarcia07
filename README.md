@@ -2,7 +2,7 @@
 
 - 👨‍💻 Estudante de TI do Senac
 - 🌱 Estudando PHP
-- 😄 Pronouns: ele/dele
+- 👨‍💻 Cursando ADS 
 
 
 <div align="center">
